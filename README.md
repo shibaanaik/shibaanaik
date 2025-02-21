@@ -17,8 +17,9 @@
 </div>
 
 ## About Me :
- - Junior at Kalinga Institute of Industrial Technology
- - Machine Learning and Artificial Intelligence Enthusiast
+ - 4th year Student at  Kalinga Institute of Industrial Technology
+ - Semester Exchange Programe at ENSEA,Paris,France
+ - Data Science and Data Analyst Enthusiast
  - Data Analyst | Business Analyst | Data Engineering
  - Currently working on Machine Learning and Data Visualization
 
