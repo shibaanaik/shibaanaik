@@ -19,8 +19,8 @@
 ## About Me :
  - Junior at Kalinga Institute of Industrial Technology
  - Machine Learning and Artificial Intelligence Enthusiast
- - Data Analyst
- - Currently working on Machine Learning Algorithms
+ - Data Analyst | Business Analyst | Data Engineering
+ - Currently working on Machine Learning and Data Visualization
 
 ## Languages and Tools :
 <div>
