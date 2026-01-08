@@ -17,11 +17,11 @@
 </div>
 
 ## About Me :
- - 4th year Student at  Kalinga Institute of Industrial Technology
+ - Recent Grad from Kalinga Institute of Industrial Technology 
  - Semester Exchange Programe at ENSEA,Paris,France
- - Data Science and Data Analyst Enthusiast
+ - Data Science and Machine learning Enthusiast
  - Data Analyst | Business Analyst | Data Engineering
- - Currently working on Machine Learning and Data Visualization
+ - Currently working on Machine Learning , Data Visualization and NLP.
 
 ## Languages and Tools :
 <div>
